@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<settings>
+  <sources>
+    <OlympusCardPath>D:\DCIM\</OlympusCardPath>
+    <CanonEosPath>E:\DCIM\</CanonEosPath>
+	<CanonHF10Path>D:\PRIVATE\AVCHD\BDMV\STREAM\</CanonHF10Path>
+	<AudioPathZoomH1>H:\STEREO\FOLDER01\</AudioPathZoomH1>
+	<AudioPathZoomH4n>D:\STEREO\</AudioPathZoomH4n>
+	<GoProPath>H:\DCIM\100GOPRO\</GoProPath>
+  </sources>
+  <targets>
+    <FotoOlympusTargetPath>C:\Users\junod\OneDrive\Images\Import_from_cards\Olympus\</FotoOlympusTargetPath>
+    <FotoCanonEOS7dTargetPath>C:\Users\junod\OneDrive\Images\Import_from_cards\CanonEos7d\</FotoCanonEOS7dTargetPath>
+	<VideoCanonHF10TargetPath>C:\Users\junod\OneDrive\Images\Videos\CanonHF10\</VideoCanonHF10TargetPath>
+	<!-- Panasonic HDC-SD20 -->
+	<!-- <VideoCanonHF10TargetPath>C:\Users\junod\OneDrive\Images\Videos\PanasonicDCSD20\</VideoCanonHF10TargetPath> -->
+	<AudioTargetPathZoomH1>C:\Users\junod\OneDrive\Audio_ZoomH1\</AudioTargetPathZoomH1>
+	<AudioTargetPathZoomH4n>C:\Users\junod\OneDrive\Audio_ZoomH4n\</AudioTargetPathZoomH4n>
+	<GoProTargetPath>C:\Users\junod\OneDrive\Images\Videos\GoPro\</GoProTargetPath>
+  </targets>
+</settings>
